@@ -1,7 +1,7 @@
 
 ## Mike Tyka – Portraits of Imaginary People
 
-![I See You photo](Tyke/Iseeyou.png?raw=true "I See You photo") 
+![I See You photo](Tyka/Iseeyou.png?raw=true "I See You photo") 
 The artist I found to be very interested is Mike Tyka! I was drawn to his work, particularly his creation “Portraits of Imaginary people” because of how futuristic it is. It is also a bit creepy to be honest, especially when I really thought about how he is literally creating faces of imaginary people! After reading the process he uses it is interesting to see how detailed algorithms can truly be. Specifically, inn his series Tyka, “explores the latent space of human faces by training a neural network to imagine and then depict portraits of people who don’t exist.” His exhibit, “Us and Them” the Kinetic Installation uses these imaginary people generated with tweets that were bots from 2016. The tweets of these imaginary people are continuously printed inthis display for people to interact with. Essentially, Tyka’s piece creates a space for viewers to interact with this creative world and reflect upon their one status as living with machines and learning to interact with each other. 
 
 [Here is a link to the project:](http://www.miketyka.com/?s=faces) 
